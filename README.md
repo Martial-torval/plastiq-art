@@ -1,6 +1,6 @@
 # Mini projet web : Plastiq'art
 
-Ce site fictif a été ralisé lors de ma formation Passerelle Numérique (Formation développeur web full-stack) à l'Ecole centrale de Marseille.
+Ce site fictif a été réalisé lors de ma formation Passerelle Numérique (Formation développeur web full-stack) à l'Ecole centrale de Marseille.
 
 Lors de cette formation, nous avons eu comme intervenante Lily Gros qui était responsable Enactus Lab, qui est venue animer une formation expérientielles et nous a sensibilisés à propos des thématiques de l'entrepreneuriat et de l'innovation sociale pour nous faire émerger des réponses à des enjeux de société et accélérer des innovations sociales.
 
